@@ -1,0 +1,6 @@
+[
+	{
+		"model": "api.community",
+		"fields": {"id": 3, "name": "연애 조언", "rank": 1}
+	}
+]

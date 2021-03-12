@@ -1,0 +1,9 @@
+  
+{% load account %}{% user_display user as user_display %}{% load i18n %}{% autoescape off %}{% blocktrans with site_name=current_site.name site_domain=current_site.domain %}
+
+안녕하세요.  {{ user_display }}님 LoveLine에 오신걸 환영합니다. 
+
+이   {{ activate_url }} 링크를 클릭하시면 회원가입 절차가 끝나고, 메인페이지로 이동하게 됩니다. 좋은 사이트 이용 되시길 바랍니다. 
+{% endblocktrans %}
+{% blocktrans with site_name=current_site.name site_domain=current_site.domain %}Thank you from http://j3c202.p.ssafy.io/{% endblocktrans %}
+{% endautoescape %}

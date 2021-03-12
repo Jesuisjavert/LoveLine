@@ -1,0 +1,654 @@
+[
+	{
+		"id": 17576011,
+		"title": "국립광주박물관 전시관",
+		"address": "광주 북구 하서로 110 (우)61066",
+		"phone": null,
+		"operation": "월~금 10:00 ~ 18:00",
+		"url": "gwangju.museum.go.kr",
+		"tags": [],
+		"reviews": [
+			{
+				"profile": "http://t1.daumcdn.net/local/kakaomapPhoto/profile/15c1137824b85e0919500500fc8184f6e33affd3?original",
+				"rate": "4",
+				"content": "좋아요",
+				"user_name": "영하",
+				"write_time": "2018.09.26."
+			}
+		],
+		"latitude": "35.1887151",
+		"longitude": "126.8813436",
+		"category": "박물관"
+	},
+	{
+		"id": 27265721,
+		"title": "남도향토음식박물관",
+		"address": "광주 북구 설죽로 477 (우)61057",
+		"phone": "062-410-6642",
+		"operation": "화~일 09:00 ~ 18:00",
+		"url": "bukgu.gwangju.kr/namdofood",
+		"tags": [
+			"#사진전시",
+			"#전통문화체험"
+		],
+		"reviews": [
+			{
+				"profile": "http://t1.daumcdn.net/local/kakaomapPhoto/profile/15c1137824b85e0919500500fc8184f6e33affd3?original",
+				"rate": "3",
+				"content": "보통이에요",
+				"user_name": "영하",
+				"write_time": "2019.02.21."
+			}
+		],
+		"latitude": "35.2018057",
+		"longitude": "126.8964839",
+		"category": "박물관"
+	},
+	{
+		"id": 9400584,
+		"title": "조선대학교 박물관",
+		"address": "광주 동구 필문대로 309 서석홀 2층 (우)61452",
+		"phone": "062-230-6333",
+		"operation": null,
+		"url": "museum.chosun.ac.kr",
+		"tags": [],
+		"reviews": [
+			{
+				"profile": "http://t1.daumcdn.net/local/kakaomapPhoto/profile/15c1137824b85e0919500500fc8184f6e33affd3?original",
+				"rate": "3",
+				"content": "보통이에요",
+				"user_name": "영하",
+				"write_time": "2018.10.01."
+			}
+		],
+		"latitude": "35.1422098",
+		"longitude": "126.9298352",
+		"category": "박물관"
+	},
+	{
+		"id": 23710952,
+		"title": "광주야구박물관",
+		"address": "광주 북구 서림로 10 (우)61255",
+		"phone": null,
+		"operation": null,
+		"url": null,
+		"tags": [],
+		"reviews": [],
+		"latitude": "35.1682636",
+		"longitude": "126.8862227",
+		"category": "박물관"
+	},
+	{
+		"id": 8215041,
+		"title": "국립광주박물관",
+		"address": "광주 북구 하서로 110 (우)61066",
+		"phone": "062-570-7000",
+		"operation": "월~금 10:00 ~ 18:00",
+		"url": "gwangju.museum.go.kr/index.do",
+		"tags": [
+			"#민속놀이체험",
+			"#전시회"
+		],
+		"reviews": [
+			{
+				"profile": "http://t1.daumcdn.net/local/kakaomapPhoto/profile/fe3949f8e2b5219261e39205b68cba884aff13410fc0b7f6fec1336b9ac585c6",
+				"rate": "5",
+				"content": "들러리로 가기 좋은곳 입니다.",
+				"user_name": "채명환",
+				"write_time": "2020.03.04."
+			},
+			{
+				"profile": "http://t1.daumcdn.net/local/kakaomapPhoto/profile/15c1137824b85e0919500500fc8184f6e33affd3?original",
+				"rate": "3",
+				"content": "좋은 박물관이기 하나 시간 조금 다 되었는데 나가라고 해서 짜증남",
+				"user_name": "영하",
+				"write_time": "2019.12.10."
+			},
+			{
+				"profile": "http://k.kakaocdn.net/dn/rfk38/btqzkRaqovy/5tCouplL0Ohbj0nXuSkexK/profile_640x640s.jpg",
+				"rate": "5",
+				"content": "Very nice workers",
+				"user_name": "Sasha",
+				"write_time": "2019.10.26."
+			},
+			{
+				"profile": "http://t1.daumcdn.net/local/kakaomapPhoto/profile/bebaf857f83f84ecdfb5050bfe3584849c6847f8?original",
+				"rate": "4",
+				"content": "한시간 정도 쉬엄쉬엄 둘러보기 좋네요",
+				"user_name": "아빠곰",
+				"write_time": "2019.10.06."
+			},
+			{
+				"profile": "http://t1.daumcdn.net/local/kakaomapPhoto/profile/96997e459c0a56c8429204e59f4d9a269589b01d?original",
+				"rate": "4",
+				"content": "전시내용이 나름 알차다",
+				"user_name": "이화연",
+				"write_time": "2019.01.06."
+			}
+		],
+		"latitude": "35.1887151",
+		"longitude": "126.8813436",
+		"category": "박물관"
+	},
+	{
+		"id": 17576741,
+		"title": "국립광주박물관 주차장1",
+		"address": "광주 북구 하서로 110 (우)61066",
+		"phone": null,
+		"operation": null,
+		"url": null,
+		"tags": [],
+		"reviews": [],
+		"latitude": "35.1887151",
+		"longitude": "126.8813436",
+		"category": "박물관"
+	},
+	{
+		"id": 16893239,
+		"title": "광주민속박물관 상조회",
+		"address": "광주 북구 서하로 48-25 (우)61104",
+		"phone": null,
+		"operation": null,
+		"url": null,
+		"tags": [],
+		"reviews": [],
+		"latitude": "35.183968",
+		"longitude": "126.8859913",
+		"category": "박물관"
+	},
+	{
+		"id": 705378175,
+		"title": "국립광주박물관 전기차충전소",
+		"address": "광주 북구 하서로 110 (우)61066",
+		"phone": null,
+		"operation": null,
+		"url": null,
+		"tags": [],
+		"reviews": [],
+		"latitude": "35.1887151",
+		"longitude": "126.8813436",
+		"category": "박물관"
+	},
+	{
+		"id": 10146394,
+		"title": "광주교육대학교 교육박물관",
+		"address": "광주 북구 필문대로 55 (우)61204",
+		"phone": "062-520-4280",
+		"operation": "월~금 10:00 ~ 17:00",
+		"url": "museum.gnue.ac.kr",
+		"tags": [],
+		"reviews": [],
+		"latitude": "35.1650557",
+		"longitude": "126.9242161",
+		"category": "박물관"
+	},
+	{
+		"id": 22249717,
+		"title": "분청사기박물관주차장",
+		"address": "광주 북구 풍암제길 14 (우)61147",
+		"phone": null,
+		"operation": null,
+		"url": null,
+		"tags": [],
+		"reviews": [],
+		"latitude": "35.1675358",
+		"longitude": "126.9964632",
+		"category": "박물관"
+	},
+	{
+		"id": 18907802,
+		"title": "전남대학교 의과대학1호관 의학박물관",
+		"address": "광주 동구 백서로 160 (우)61469",
+		"phone": null,
+		"operation": null,
+		"url": null,
+		"tags": [],
+		"reviews": [],
+		"latitude": "35.1422692",
+		"longitude": "126.9212222",
+		"category": "박물관"
+	},
+	{
+		"id": 17580438,
+		"title": "국립광주박물관 연구동",
+		"address": "광주 북구 하서로 110 (우)61066",
+		"phone": null,
+		"operation": null,
+		"url": null,
+		"tags": [],
+		"reviews": [],
+		"latitude": "35.1887151",
+		"longitude": "126.8813436",
+		"category": "박물관"
+	},
+	{
+		"id": 25754960,
+		"title": "조선대학교 장황남정보통신박물관",
+		"address": "광주 동구 필문대로 309 (우)61452",
+		"phone": "062-230-7780",
+		"operation": null,
+		"url": "changicmuseum.chosun.ac.kr",
+		"tags": [],
+		"reviews": [
+			{
+				"profile": "http://k.kakaocdn.net/dn/blzGdZ/btqAKvlzprP/zitCKjj0PuPOhIsgp6W2p0/img_640x640.jpg",
+				"rate": "5",
+				"content": "박물관 구석구석 친절하게 안내, 설명해주셔서 좋았습니다. 기계에 관심 있다면 가볼만 합니다.",
+				"user_name": "박재성",
+				"write_time": "2020.01.31."
+			}
+		],
+		"latitude": "35.1409711",
+		"longitude": "126.9278321",
+		"category": "박물관"
+	},
+	{
+		"id": 9215855,
+		"title": "국립박물관문화재단 광주지점",
+		"address": "광주 북구 하서로 110 (우)61066",
+		"phone": "062-571-7116",
+		"operation": "매일 09:00 ~ 21:00",
+		"url": null,
+		"tags": [],
+		"reviews": [],
+		"latitude": "35.1887151",
+		"longitude": "126.8813436",
+		"category": "박물관"
+	},
+	{
+		"id": 8833453,
+		"title": "국립광주박물관 학예유물팀",
+		"address": "광주 북구 하서로 110 (우)61066",
+		"phone": "062-570-7037",
+		"operation": "월~금 10:00 ~ 18:00",
+		"url": "gwangju.museum.go.kr/index.do",
+		"tags": [],
+		"reviews": [],
+		"latitude": "35.1887151",
+		"longitude": "126.8813436",
+		"category": "박물관"
+	},
+	{
+		"id": 25665768,
+		"title": "국립광주박물관 고려청자가마터",
+		"address": "광주 북구 하서로 110 (우)61066",
+		"phone": "062-570-7000",
+		"operation": "월~금 10:00 ~ 18:00",
+		"url": "gwangju.museum.go.kr/index.do",
+		"tags": [],
+		"reviews": [
+			{
+				"profile": "http://t1.daumcdn.net/local/kakaomapPhoto/profile/15c1137824b85e0919500500fc8184f6e33affd3?original",
+				"rate": "3",
+				"content": "보통이에요",
+				"user_name": "영하",
+				"write_time": "2018.09.26."
+			}
+		],
+		"latitude": "35.1887151",
+		"longitude": "126.8813436",
+		"category": "박물관"
+	},
+	{
+		"id": 27394584,
+		"title": "세계조각장식박물관",
+		"address": "광주 동구 중앙로196번길 14 (우)61475",
+		"phone": null,
+		"operation": null,
+		"url": null,
+		"tags": [],
+		"reviews": [
+			{
+				"profile": "http://t1.daumcdn.net/local/kakaomapPhoto/profile/c304b03895d416d97cabe4a7f4535578cd4a8274?original",
+				"rate": "5",
+				"content": "최고예요",
+				"user_name": "맛",
+				"write_time": "2017.04.11."
+			}
+		],
+		"latitude": "35.1497334",
+		"longitude": "126.9148299",
+		"category": "박물관"
+	},
+	{
+		"id": 25665769,
+		"title": "국립광주박물관 어린이박물관",
+		"address": "광주 북구 하서로 110 (우)61066",
+		"phone": null,
+		"operation": "매일 10:00 ~ 17:00",
+		"url": "gwangju.museum.go.kr",
+		"tags": [],
+		"reviews": [],
+		"latitude": "35.1887151",
+		"longitude": "126.8813436",
+		"category": "박물관"
+	},
+	{
+		"id": 2146878171,
+		"title": "광주국립박물관 전기차충전소",
+		"address": "광주 북구 서하로 20 (우)61065",
+		"phone": "1661-9408",
+		"operation": null,
+		"url": null,
+		"tags": [],
+		"reviews": [],
+		"latitude": "35.1861445",
+		"longitude": "126.8808672",
+		"category": "박물관"
+	},
+	{
+		"id": 8836280,
+		"title": "국립광주박물관 학예기획팀",
+		"address": "광주 북구 하서로 110 (우)61066",
+		"phone": "062-570-7054",
+		"operation": "월~금 10:00 ~ 18:00",
+		"url": "gwangju.museum.go.kr/index.do",
+		"tags": [],
+		"reviews": [],
+		"latitude": "35.1887151",
+		"longitude": "126.8813436",
+		"category": "박물관"
+	},
+	{
+		"id": 17580716,
+		"title": "국립광주박물관 주차장2",
+		"address": "광주 북구 하서로 110 (우)61066",
+		"phone": null,
+		"operation": null,
+		"url": null,
+		"tags": [],
+		"reviews": [],
+		"latitude": "35.1887151",
+		"longitude": "126.8813436",
+		"category": "박물관"
+	},
+	{
+		"id": 10628420,
+		"title": "박물관포도원",
+		"address": "광주 북구 서하로 41-25 (우)61066",
+		"phone": "062-574-8025",
+		"operation": null,
+		"url": null,
+		"tags": [],
+		"reviews": [],
+		"latitude": "35.18864",
+		"longitude": "126.8829686",
+		"category": "박물관"
+	},
+	{
+		"id": 15287522,
+		"title": "까치주유소",
+		"address": "광주 북구 하서로 211 (우)61093",
+		"phone": "062-573-5181",
+		"operation": null,
+		"url": null,
+		"tags": [],
+		"reviews": [],
+		"latitude": "35.1944772",
+		"longitude": "126.8744744",
+		"category": "박물관"
+	},
+	{
+		"id": 27042669,
+		"title": "KJB금융박물관",
+		"address": "광주 동구 제봉로 225 (우)61470",
+		"phone": null,
+		"operation": null,
+		"url": null,
+		"tags": [],
+		"reviews": [],
+		"latitude": "35.1546397",
+		"longitude": "126.9108203",
+		"category": "박물관"
+	},
+	{
+		"id": 27599422,
+		"title": "비움박물관",
+		"address": "광주 동구 제봉로 143-1 (우)61474",
+		"phone": "062-222-6668",
+		"operation": "화~토 10:00 ~ 18:00",
+		"url": "biummuseum.com",
+		"tags": [],
+		"reviews": [],
+		"latitude": "35.1504312",
+		"longitude": "126.9181767",
+		"category": "박물관"
+	},
+	{
+		"id": 12890821,
+		"title": "선뮤지엄",
+		"address": "광주 북구 하서로 415 덕암빌딩 2층 (우)61019",
+		"phone": null,
+		"operation": null,
+		"url": null,
+		"tags": [],
+		"reviews": [],
+		"latitude": "35.1505007",
+		"longitude": "126.885346",
+		"category": "박물관"
+	},
+	{
+		"id": 8065473,
+		"title": "전남대학교 박물관",
+		"address": "광주 북구 용봉동 300",
+		"phone": "062-530-3583",
+		"operation": "매일 10:00 ~ 17:00",
+		"url": "museum.jnu.ac.kr",
+		"tags": [],
+		"reviews": [
+			{
+				"profile": "http://t1.daumcdn.net/local/kakaomapPhoto/profile/15c1137824b85e0919500500fc8184f6e33affd3?original",
+				"rate": "3",
+				"content": "보통이에요",
+				"user_name": "영하",
+				"write_time": "2018.10.01."
+			},
+			{
+				"profile": "http://th-p.talk.kakao.co.kr/th/talkp/wkIIO0TSx4/zpqK1TNPbOAfXCTPljyRn0/v8hk66.jpg",
+				"rate": "5",
+				"content": "박물관으로서 모든걸 갖춤",
+				"user_name": "★전설의성웅☆",
+				"write_time": "2018.09.05."
+			}
+		],
+		"latitude": "35.1763658",
+		"longitude": "126.9022174",
+		"category": "박물관"
+	},
+	{
+		"id": 10952901,
+		"title": "한국미용박물관",
+		"address": "광주 북구 용봉로 116 (우)61217",
+		"phone": "062-514-6622",
+		"operation": "화~일 10:00 ~ 17:00",
+		"url": "kbeautymuseum.org/ko/index.php",
+		"tags": [],
+		"reviews": [],
+		"latitude": "35.1723455",
+		"longitude": "126.9071992",
+		"category": "박물관"
+	},
+	{
+		"id": 18118845,
+		"title": "국립 광주박물관 매표소",
+		"address": "광주 북구 하서로 110 (우)61066",
+		"phone": null,
+		"operation": null,
+		"url": null,
+		"tags": [],
+		"reviews": [],
+		"latitude": "35.1887151",
+		"longitude": "126.8813436",
+		"category": "박물관"
+	},
+	{
+		"id": 96957694,
+		"title": "송월당유물관",
+		"address": "광주 북구 자라봉로 15 (우)61071",
+		"phone": null,
+		"operation": null,
+		"url": null,
+		"tags": [],
+		"reviews": [],
+		"latitude": "35.2079387",
+		"longitude": "126.8780026",
+		"category": "박물관"
+	},
+	{
+		"id": 18342873,
+		"title": "광주김치박물관",
+		"address": "광주 남구 김치로 60 (우)61755",
+		"phone": "062-613-8222",
+		"operation": "화~일 09:00 ~ 18:00",
+		"url": "kimchitown.gwangju.go.kr",
+		"tags": [
+			"#김치박물관"
+		],
+		"reviews": [],
+		"latitude": "35.1090994",
+		"longitude": "126.864416",
+		"category": "박물관"
+	},
+	{
+		"id": 18118848,
+		"title": "국립광주박물관 2주차장",
+		"address": "광주 북구 하서로 110 (우)61066",
+		"phone": null,
+		"operation": null,
+		"url": null,
+		"tags": [],
+		"reviews": [],
+		"latitude": "35.1887151",
+		"longitude": "126.8813436",
+		"category": "박물관"
+	},
+	{
+		"id": 18118847,
+		"title": "국립광주박물관 1주차장",
+		"address": "광주 북구 하서로 110 (우)61066",
+		"phone": null,
+		"operation": null,
+		"url": null,
+		"tags": [],
+		"reviews": [],
+		"latitude": "35.1887151",
+		"longitude": "126.8813436",
+		"category": "박물관"
+	},
+	{
+		"id": 25665765,
+		"title": "국립광주박물관 고인돌공원",
+		"address": "광주 북구 하서로 110 (우)61066",
+		"phone": null,
+		"operation": null,
+		"url": null,
+		"tags": [],
+		"reviews": [
+			{
+				"profile": "http://t1.daumcdn.net/local/kakaomapPhoto/profile/15c1137824b85e0919500500fc8184f6e33affd3?original",
+				"rate": "4",
+				"content": "좋아요",
+				"user_name": "영하",
+				"write_time": "2018.09.26."
+			}
+		],
+		"latitude": "35.1887151",
+		"longitude": "126.8813436",
+		"category": "박물관"
+	},
+	{
+		"id": 17576025,
+		"title": "국립광주박물관 교육관",
+		"address": "광주 북구 하서로 110 (우)61066",
+		"phone": null,
+		"operation": null,
+		"url": null,
+		"tags": [],
+		"reviews": [
+			{
+				"profile": "http://t1.daumcdn.net/local/kakaomapPhoto/profile/15c1137824b85e0919500500fc8184f6e33affd3?original",
+				"rate": "3",
+				"content": "보통이에요",
+				"user_name": "영하",
+				"write_time": "2018.09.26."
+			}
+		],
+		"latitude": "35.1887151",
+		"longitude": "126.8813436",
+		"category": "박물관"
+	},
+	{
+		"id": 23864927,
+		"title": "분청사기박물관",
+		"address": "광주 북구 풍암제길 14 (우)61147",
+		"phone": null,
+		"operation": null,
+		"url": null,
+		"tags": [],
+		"reviews": [],
+		"latitude": "35.1675358",
+		"longitude": "126.9964632",
+		"category": "박물관"
+	},
+	{
+		"id": 15137508,
+		"title": "국립박물관입구교차로",
+		"address": "광주 북구 매곡동",
+		"phone": null,
+		"operation": null,
+		"url": null,
+		"tags": [],
+		"reviews": [],
+		"latitude": "35.1907664",
+		"longitude": "126.8805982",
+		"category": "박물관"
+	},
+	{
+		"id": 25971937,
+		"title": "박물관카센타",
+		"address": "광주 북구 하서로 211 (우)61093",
+		"phone": "062-953-5138",
+		"operation": null,
+		"url": null,
+		"tags": [],
+		"reviews": [],
+		"latitude": "35.1944772",
+		"longitude": "126.8744744",
+		"category": "박물관"
+	},
+	{
+		"id": 8699685,
+		"title": "광주역사민속박물관",
+		"address": "광주 북구 서하로 48-25 (우)61104",
+		"phone": "062-613-5337",
+		"operation": "화~일 09:00 ~ 18:00",
+		"url": "www.gwangju.go.kr/gjhfm",
+		"tags": [],
+		"reviews": [
+			{
+				"profile": "",
+				"rate": "5",
+				"content": "최고예요",
+				"user_name": "박천우",
+				"write_time": "2020.01.17."
+			},
+			{
+				"profile": "http://t1.daumcdn.net/local/kakaomapPhoto/profile/15c1137824b85e0919500500fc8184f6e33affd3?original",
+				"rate": "2",
+				"content": "박물관이 오래 되어서 아쉽고 국립박물관보다는 운영을 못 하겠지민 리모델링 해야 됨",
+				"user_name": "영하",
+				"write_time": "2018.09.22."
+			},
+			{
+				"profile": "http://t1.daumcdn.net/local/kakaomapPhoto/profile/32c23241db18c9961b08b35d9e5cf53cefe43a52?original",
+				"rate": "1",
+				"content": "하 월요일 휴관이래요.... 가는날이 장날... 정보 수정 부탁드려요... 추워 죽겠네...",
+				"user_name": "Roh Hyeok",
+				"write_time": "2018.02.12."
+			}
+		],
+		"latitude": "35.183968",
+		"longitude": "126.8859913",
+		"category": "박물관"
+	}
+]
