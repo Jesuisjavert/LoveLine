@@ -10,7 +10,7 @@
 
 <br>
 
-## <img src="./README.assets/favicon.png" height="50" />Description 
+## :memo: Description 
 
 ```sh
 하늘에 별도 따다주고 싶은 내 여자친구, 데이트 코스 짜느라 두통, 치통, 마음의 고통까지 겪고 계시나요?
@@ -34,7 +34,7 @@ LoveLine은 빅데이터 분석 기반 데이트 코스 추천 웹 어플리케�
     <img src="./README.assets/lo7.gif"/>
 </center>
 
-####                                                        :cinema:[Project 소개 UCC](https://www.youtube.com/watch?v=uVt-ZJOvBfE)
+####                                                        												:cinema:[Project 소개 UCC](https://www.youtube.com/watch?v=uVt-ZJOvBfE)
 
 ## :mag: Overview
 
@@ -58,10 +58,11 @@ LoveLine은 빅데이터 분석 기반 데이트 코스 추천 웹 어플리케�
 
 <center>
     <img src="./README.assets/5.png"/><br>
-    <img src="./README.assets/6.png"/><br><br>
     <img src="./README.assets/lo3.gif"/><br>
 자세한 시연은 Service Demo 시연 영상을 참조해주세요
 </center>
+
+#### :clapper:[Demo 시연영상](https://www.youtube.com/watch?v=BJctbq5bAhE)
 
   <br>
 
@@ -78,7 +79,6 @@ LoveLine은 빅데이터 분석 기반 데이트 코스 추천 웹 어플리케�
 <center>
     <img src="./README.assets/lo5.gif"/>
 </center>
-
 <br>
 
 ### 6. My Page (Dating Spot Review Write & Schedule Managament)
@@ -99,6 +99,8 @@ LoveLine은 빅데이터 분석 기반 데이트 코스 추천 웹 어플리케�
 
 
 
+
+
 ## :runner: 개발 과정
 
 <center>
@@ -114,7 +116,6 @@ LoveLine은 빅데이터 분석 기반 데이트 코스 추천 웹 어플리케�
     <br><br>
     더 자세한 REST_API 내용은 doc폴더의 심화_REST_API.xlsx 파일을 참조
 </center>
-
 <br>
 
 ## :pencil2: ERD
@@ -124,8 +125,6 @@ LoveLine은 빅데이터 분석 기반 데이트 코스 추천 웹 어플리케�
 </center>
 
 <br>
-
-#### 
 
 ## :trophy: Awards
 
@@ -148,6 +147,7 @@ Frontend : 🐯**Kang Donghoon**
 Frontend : 🐱 **Kang Byungkook**
 
 <hr>
+
 
 ## 📝 License
 
