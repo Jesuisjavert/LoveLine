@@ -113,9 +113,9 @@ LoveLine은 빅데이터 분석 기반 데이트 코스 추천 웹 어플리케�
 
 <center>
     <img src="./README.assets/REST_API.png"/>
-    <br><br>
     더 자세한 REST_API 내용은 doc폴더의 심화_REST_API.xlsx 파일을 참조
 </center>
+
 <br>
 
 ## :pencil2: ERD
@@ -123,14 +123,13 @@ LoveLine은 빅데이터 분석 기반 데이트 코스 추천 웹 어플리케�
 <center>
     <img src="./README.assets/ERD.png"/>
 </center>
-
 <br>
 
 ## :trophy: Awards
 
 - SSAFY 특화 프로젝트 우수팀 UCC 우수상 선정 및 부상 30만원 수상
 
-![Award](./README.assets/loveline.jpg)
+![Award](./README.assets/Loveline.jpg)
 
 
 
