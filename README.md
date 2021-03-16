@@ -145,11 +145,8 @@ Frontend : 🐯**Kang Donghoon**
 
 Frontend : 🐱 **Kang Byungkook**
 
-<hr>
 
 
 ## 📝 License
 
 Copyright © 2020 LoveLine 
-
-<img src="./README.assets/logo.ico"/>
