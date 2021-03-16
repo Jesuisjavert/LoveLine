@@ -10,7 +10,7 @@
 
 <br>
 
-## <img src="./README.assets/favicon.png" align="center" style="zoom:10%;"/> Description 
+## <img src="./README.assets/favicon.png" style="zoom:10%;"/> Description 
 
 ```sh
 하늘에 별도 따다주고 싶은 내 여자친구, 데이트 코스 짜느라 두통, 치통, 마음의 고통까지 겪고 계시나요?
