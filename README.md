@@ -1,264 +1,156 @@
-<h1 align="center"> LoveLine <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48px"></h1>
-<p>
-</p>
-
-
-
-
 <center>
-    <img src="./logo_row.png" alt="MODU" style="zoom:76%;" align="center"/>
+    <img src="./logo.png" style="zoom:36%;" align="center"/>
 </center>
 
 
 
+> LoveLine / 러브라인 (SSAFY 3rd 특화프로젝트)
 
-> MODU's Health / 모두의 헬스 (SSAFY 3rd 자율프로젝트)
-
-### 🏠 [Github](https://github.com/jesuisjavert/MODU) :clapper:[Demo 시연영상](https://www.youtube.com/watch?v=JnYyQUX-lPw&feature=youtu.be) :page_with_curl:[프로젝트 명세서](https://drive.google.com/file/d/1fWqLAJYHXRDeOOPT6kzg8ESiNVkAZr1h/view?usp=sharing) :microphone:[Presentation](https://drive.google.com/file/d/1LEiyBAhnahO3JV_hn3iLqF7BJafw2TFf/view?usp=sharing)
+### 🏠 [Github](https://github.com/jesuisjavert/loveline) :cinema:[Project 소개 UCC](https://www.youtube.com/watch?v=uVt-ZJOvBfE) :clapper:[Demo 시연영상](https://www.youtube.com/watch?v=BJctbq5bAhE) :microphone:[Presentation](https://drive.google.com/file/d/1vRn9mekf0BRuvwIz3FFD7gLnNMdkkyYM)
 
 <br>
 
-## ✨ Description
+## <img src="./README.assets/favicon.png" align="center" style="zoom:10%;"/> Description 
 
 ```sh
-모두의 헬스는 Health Trainer 와 Client 간의 온-오프라인 Personal Training 상품을
-판매하고, 이용할 수 있게 도와주는 O2O 플랫폼 서비스 입니다.
+하늘에 별도 따다주고 싶은 내 여자친구, 데이트 코스 짜느라 두통, 치통, 마음의 고통까지 겪고 계시나요?
+더 이상 고민은 Stop! 당신의 사랑에도,'라인'이 필요합니다.
+LoveLine은 빅데이터 분석 기반 데이트 코스 추천 웹 어플리케이션입니다.
 ```
 
 
 
 ## :pushpin: Project Goal
 
-```sh
- 코로나 사태 이후, 우리의 삶은 ‘뉴 노말(New normal)’시대로의 전환을 맞이했습니다.
-전염병의 확산을 막기 위한 ‘비대면/언택트(Untact)’의 시대에, 오프라인 대면 만남을 최소한으로 줄이려는 노력과,
-그만큼 줄어든 활동량에 따라, 개인의 건강과 운동을 집에서 해결할 수 있는 ‘홈트레이닝’에 대한 수요가 급격하게
-늘어나게 되었습니다. 
- 그 결과, 2020년 업종별 폐업률 1위가 오프라인 피트니스 시장이 될 정도로, 피트니스 시장의 많은 자영업자들이
-심각한 경제적 타격을 입은 것으로 보입니다. 이를 해결하기 위해, 온라인 홈트레이닝족과 오프라인 헬스트레이너를
-연결하는 플랫폼 서비스를 만들어 국민건강증진과 트레이너 자영업자들의 경영난을 해소하기 위해 이 프로젝트를 기획했습니다.
- 기존의 오프라인 피트니스 시장을 온라인 플랫폼에 안착시키고, 기존의 전문 기술력을 가진 헬스 트레이너들을
-온라인 홈트레이닝 시장과 연결시켜 새로운 가치를 창출해내는 것은 유의미한 시도가 될 것입니다.
-```
-
-
-
-## :mag: 서비스 기능
-
 <center>
-    <img src="./README.assets/requirements.png" alt="MODU"  align="center"/>
+    <img src="./README.assets/pic5.png" align="center" style="zoom:80%;"/><br>
 </center>
 
+
+
+##  ✨UCC
+
+<center>
+    <img src="./README.assets/lo7.gif"/>
+</center>
+
+####                                                        :cinema:[Project 소개 UCC](https://www.youtube.com/watch?v=uVt-ZJOvBfE)
 
 ## :mag: Overview
 
-### 1. 유저 로그인 페이지 (User Login Page) (소셜로그인)
+### 1. Intro Page (Scroll Event Interactive Design)
 
 <center>
-    <img src="./README.assets/1.png" alt="MODU"/>
-</center>
-
-
-<br>
-
-### 2. 트레이너-고객 실시간채팅 Trainer - Client Chatting 
-
-<center>
-    <img src="./README.assets/2.png" alt="MODU"/>
-</center>
-
-
-<br>
-
-### 3. 트레이너-프로그램 추천 시스템 (Best Trainer/Program Carousel)
-
-<center>
-    <img src="./README.assets/3.png" alt="MODU"/>
+    <img src="./README.assets/lo.gif"/>
 </center>
 
 <br>
 
-### 4. 다중 화상통화 기능활용 온라인 홈트레이닝 세션 (Multiple User WebRTC(Realtime Camera) Online Personal Training)
+### 2. Main Page (추천시스템 사용법 안내 및 지역별 특징 소개)
 
 <center>
-    <img src="./README.assets/4.png" alt="MODU"/>
+    <img src="./README.assets/lo2.gif"/><br>
 </center>
 
 <br>
 
-### 5. 달력 기능과 연동한 스케쥴 관리(Schedule managment)
+### 3. 데이트 코스 추천 시연 (Dating Spot Recommendation)
 
 <center>
-    <img src="./README.assets/5.png" alt="MODU"/>
+    <img src="./README.assets/5.png"/><br>
+    <img src="./README.assets/6.png"/><br><br>
+    <img src="./README.assets/lo3.gif"/><br>
+자세한 시연은 Service Demo 시연 영상을 참조해주세요
 </center>
 
+  <br>
+
+### 4. 데이트 코스 리뷰 기능 (Course Review CRUD)
+
+<center>
+    <img src="./README.assets/lo4.gif"/>
+</center>
 
 <br>
 
-### 6. 트레이너의 PT관리 CRUD(PT Program & Client management)
+### 5. 만남 게시판 (Hang-out)
 
 <center>
-    <img src="./README.assets/6.png" alt="MODU"/>
+    <img src="./README.assets/lo5.gif"/>
 </center>
-
 
 <br>
 
-### 7. PT프로그램 디테일 CRUD(PT Program CRUD)
+### 6. My Page (Dating Spot Review Write & Schedule Managament)
 
 <center>
-    <img src="./README.assets/7.png" alt="MODU"/>
+    <img src="./README.assets/lo6.gif"/>
 </center>
 
-
 <br>
-
-### 8. 결제시스템 (카카오 페이 결제) Client Payment System
-
-<center>
-    <img src="./README.assets/8.png" alt="MODU"/>
-</center>
-
-
-<br>
-
-### 9. 실시간 알림 & 프로그램 리뷰 & 예약 시스템
-
-### Realtime Notification & Review & Reservation System
-
-<center>
-    <img src="./README.assets/9.png" alt="MODU"/>
-</center>
-
-
-<br>
-
-
 
 ## :wrench: Tech Stack
 
 ### Tech Stack
 
 <center>
-    <img src="./README.assets/stack.png" alt="MODU"/>
+    <img src="./README.assets/pic6.png"/>
 </center>
 
 
 
-
-### System Architecture
+## :runner: 개발 과정
 
 <center>
-    <img src="./README.assets/arch.png" alt="MODU"/>
+    <img src="./README.assets/pic4.png"/>
 </center>
 
+
+
+## :page_with_curl: REST API 기능 목록
+
+<center>
+    <img src="./README.assets/REST_API.png"/>
+    <br><br>
+    더 자세한 REST_API 내용은 doc폴더의 심화_REST_API.xlsx 파일을 참조
+</center>
 
 <br>
 
 ## :pencil2: ERD
 
 <center>
-    <img src="./README.assets/erd.png" alt="MODU"/>
+    <img src="./README.assets/ERD.png"/>
 </center>
 
 <br>
 
-## :runner: Steps to run
+#### 
 
-### Backend
+## :trophy: Awards
 
-```bash
-$ cd modeling
-$ python -m venv venv
-$ source venv/Scripts/activate
-$ python install -r requirements.txt
-$ python manage.py runserver
-```
+- SSAFY 특화 프로젝트 우수팀 UCC 우수상 선정 및 부상 30만원 수상
 
-### Frontend
+![Award](./README.assets/loveline.jpg)
 
-```bash
-$ cd frontend
-$ npm install
-$ npm run serve
-```
 
-<br>
 
 ## 🤼‍♂️Author
 
-Team Leader : 🐯**Kang Donghoon**
+Team Leader : 🦁 **Roh Hyunsuk**
 
 Backend : 🐶 **Lee Changwan**
 
 Backend: 🐺 **Bae Yongkyun**
 
-Frontend : 🐱 **Kang Byungkook**
+Frontend : 🐯**Kang Donghoon**
 
-Frontend : 🦁 **Roh Hyunsuk**
+Frontend : 🐱 **Kang Byungkook**
 
 <hr>
 
-
-## :trophy: Awards
-
-- SSAFY 자율 프로젝트 우수팀 선정 및 부상 100만원 수상
-
-![Award](C:\Users\DonghoonKang\Desktop\modu\MODU\README.assets\MODU.jpg)
-
-- SSAFY  Best Member 선정 & 50000 마일리지 수여
-
-  ![bestmember](C:\Users\DonghoonKang\Desktop\modu\MODU\README.assets\bestmember.png)
-
-
-
-
 ## 📝 License
 
-Copyright © 2020  MODU's Health  <br>
+Copyright © 2020 LoveLine 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Backend**
-
-```sh
-cd sub2/backend
-pip install -r requirements.txt
-# requirements.txt가 안되는 경우엔 개별적으로 설치를 해줘야한다 보통 pandas,scipy,scikit-learn 패키지가 문제를 일으키는경우가 많다.
-# 패키지 설치시 동반설치되는 패키지가 지원되지않는 확장자를 가져오는경우가 있어서 그럴때에는 개별설치를 추천한다.
-python manage.py makemigrations
-python manage.py migrate
-python manage.py initialize
-python manage.py runserver
-```
-
-**Frontend**
-
-```sh
-cd sub2/frontend
-npm install
-npm run serve
-
-```
+<img src="./README.assets/logo.ico"/>
