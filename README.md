@@ -43,6 +43,7 @@ LoveLine은 빅데이터 분석 기반 데이트 코스 추천 웹 어플리케�
 <center>
     <img src="./README.assets/lo.gif"/>
 </center>
+휠 이벤트에 따라, 한 페이지씩 내려가는 반응형 Intro 페이지 구성
 
 <br>
 
@@ -51,6 +52,7 @@ LoveLine은 빅데이터 분석 기반 데이트 코스 추천 웹 어플리케�
 <center>
     <img src="./README.assets/lo2.gif"/><br>
 </center>
+hover 이벤트 발생 시 사이트 이용방법을 소개하는 컴포넌트 구성
 
 <br>
 
@@ -59,8 +61,11 @@ LoveLine은 빅데이터 분석 기반 데이트 코스 추천 웹 어플리케�
 <center>
     <img src="./README.assets/5.png"/><br>
     <img src="./README.assets/lo3.gif"/><br>
-자세한 시연은 Service Demo 시연 영상을 참조해주세요
 </center>
+
+자신의 취향 Parameter 값을 빅데이터로 분석하고, 추천 받은 데이트 명소들을 <br>
+Tmap API 위에 뿌려서, 도보 or 차량에 따라 실시간 최적의 경로를 보여줌. <br><br>
+자세한 시연은 Service Demo 시연 영상을 참조해주세요
 
 #### :clapper:[Demo 시연영상](https://www.youtube.com/watch?v=BJctbq5bAhE)
 
@@ -71,6 +76,7 @@ LoveLine은 빅데이터 분석 기반 데이트 코스 추천 웹 어플리케�
 <center>
     <img src="./README.assets/lo4.gif"/>
 </center>
+커뮤니티 게시판 및 리뷰 CRUD 기능
 
 <br>
 
@@ -79,6 +85,8 @@ LoveLine은 빅데이터 분석 기반 데이트 코스 추천 웹 어플리케�
 <center>
     <img src="./README.assets/lo5.gif"/>
 </center>
+만남 게시판 (다중 이미지 업로드 기능)
+
 <br>
 
 ### 6. My Page (Dating Spot Review Write & Schedule Managament)
@@ -86,6 +94,7 @@ LoveLine은 빅데이터 분석 기반 데이트 코스 추천 웹 어플리케�
 <center>
     <img src="./README.assets/lo6.gif"/>
 </center>
+My Page를 통해 회원별 데이트 코스 관리
 
 <br>
 
