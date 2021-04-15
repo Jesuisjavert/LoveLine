@@ -6,7 +6,7 @@
 
 > LoveLine / 러브라인 (SSAFY 3rd 특화프로젝트)
 
-### 🏠 [Github](https://github.com/jesuisjavert/loveline) :cinema:[Project 소개 UCC](https://www.youtube.com/watch?v=uVt-ZJOvBfE) :clapper:[Demo 시연영상](https://www.youtube.com/watch?v=BJctbq5bAhE) :microphone:[Presentation](https://drive.google.com/file/d/1vRn9mekf0BRuvwIz3FFD7gLnNMdkkyYM)
+### 🏠 [Github](https://github.com/jesuisjavert/loveline) :cinema:[Project 소개 UCC](https://www.youtube.com/watch?v=uVt-ZJOvBfE) :clapper:[Demo 시연영상](https://www.youtube.com/watch?v=BJctbq5bAhE) :microphone:[Presentation](https://drive.google.com/file/d/1vRn9mekf0BRuvwIz3FFD7gLnNMdkkyYM/view?usp=sharing)
 
 <br>
 
